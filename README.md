@@ -48,4 +48,4 @@ that manages blog posts.
 - **React js:** The primary programming language to create this Project.
 - **CSS:** This style sheets are used to design blog application as attractive and user friendly.  
 - **JAVASCRIPT:** Used to Perform operation.
-- **EXPRESS.JS:** Used to manage users and Blog posts.
+- **EXPRESS.JS:** Used to manage users and posts.
