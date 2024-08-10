@@ -39,7 +39,7 @@ that manages blog posts.
 
 - **Visualize Projects:** Displaying created post by user
 - **Blog post:** Displaying works and posts picture
-- **Register/Login:**Login and register account with managed database
+- **Register/Login:** Login and register account with managed database
 
 <br>
 
