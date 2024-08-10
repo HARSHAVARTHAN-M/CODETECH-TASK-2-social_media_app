@@ -46,6 +46,6 @@ that manages blog posts.
 -***Technologies Used***
 
 - **React js:** The primary programming language to create this Project.
-- **CSS:** This style sheets are used to design blog application as attractive and user friendly.  
+- **CSS:** This style sheets are used to design social media application as attractive and user friendly.  
 - **JAVASCRIPT:** Used to Perform operation.
 - **EXPRESS.JS:** Used to manage users and posts.
